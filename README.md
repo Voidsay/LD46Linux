@@ -36,8 +36,11 @@ If select program prompt appears:
   check if DrStatnilsDodoEgg.x86_64 is executable
 
   Rightclick on DrStatnilsDodoEgg.x86_64
+  
   select Properties
+  
   select premission
+  
   make sure Execute: "Allow executiong file as program" is checked
 
 
@@ -47,4 +50,5 @@ If select program prompt appears:
 Tested On:
 
 Linux Mint 18.1 Cinnamon 64bit 
+
 Linux Mint 19.2 Cinnamon 64bit
