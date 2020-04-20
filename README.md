@@ -5,6 +5,8 @@ Licence:
 
 for personal use only
 
+
+
 Instalation guid:
 
 Download all files and move them to a new directory.
@@ -12,7 +14,8 @@ Unpack everything.
 
 Make executable and run.
 
-If nothing happens
+If nothing happens:
+
   check if all files are unpacked and located in the same directory as the executable
 
   The folowing files should be present:
@@ -21,6 +24,7 @@ If nothing happens
   UnityPlayer.so
 
 If select program prompt appears:
+
   check if DrStatnilsDodoEgg.x86_64 is executable
 
   Rightclick on DrStatnilsDodoEgg.x86_64
@@ -30,7 +34,9 @@ If select program prompt appears:
 
 
 
-Tested On:
-Linux Mint 18.1 Cinnamon 64bit
 
+
+Tested On:
+
+Linux Mint 18.1 Cinnamon 64bit
 Linux Mint 19.2 Cinnamon 64bit
