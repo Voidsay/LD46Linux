@@ -1,6 +1,9 @@
 # LD46Linux
 Linux Executable for Ludumdare 46
 
+Licence:
+for personal use only
+
 Instalation guid:
 
 Download all files and move them to a new directory.
