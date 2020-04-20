@@ -2,6 +2,7 @@
 Linux Executable for Ludumdare 46
 
 Licence:
+
 for personal use only
 
 Instalation guid:
@@ -31,4 +32,5 @@ If select program prompt appears:
 
 Tested On:
 Linux Mint 18.1 Cinnamon 64bit
+
 Linux Mint 19.2 Cinnamon 64bit
