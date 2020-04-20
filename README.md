@@ -14,6 +14,9 @@ Unpack everything.
 
 Make executable and run.
 
+
+
+
 If nothing happens:
 
   check if all files are unpacked and located in the same directory as the executable
@@ -21,8 +24,12 @@ If nothing happens:
   The folowing files should be present:
   
   DrStatnilsDodoEgg.x86_64 
+  
   DrStatnilsDodoEgg_Data  //this is a directory with files don't touch them
+  
   UnityPlayer.so
+
+
 
 If select program prompt appears:
 
