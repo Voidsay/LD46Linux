@@ -1,4 +1,7 @@
 # LD46Linux
+
+Just go to https://voidsay.itch.io/dr-statnils-dodo-egg and download it there!
+
 Linux Executable for Ludumdare 46
 
 Licence:
