@@ -20,7 +20,7 @@ If nothing happens:
 
   The folowing files should be present:
   
-  DrStatnilsDodoEgg.x86_64
+  DrStatnilsDodoEgg.x86_64 
   DrStatnilsDodoEgg_Data  //this is a directory with files don't touch them
   UnityPlayer.so
 
@@ -39,5 +39,5 @@ If select program prompt appears:
 
 Tested On:
 
-Linux Mint 18.1 Cinnamon 64bit
+Linux Mint 18.1 Cinnamon 64bit 
 Linux Mint 19.2 Cinnamon 64bit
